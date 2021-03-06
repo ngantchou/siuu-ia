@@ -1,0 +1,97 @@
+id,name,city,Followers,Follow,visited_places,contact_list,contact,Interest
+0,John,Tokyo,"[4,6,7,8,9,10]","[1,4,6,7,8,9,10]","[KFC,Super mart,Macdonald]","[92305700857,92305700858,92305700859]",92305700856,"[Movies ,News]"
+1,ahmad,ahmad,"[4,6,7,8,9,10]",,"[University,PSO]",,92305700857,"[Movies ,Music]"
+4,George,Manila,[abc],"[6,7,8,9,10]","[KFC,Super mart,Macdonald]","[92305700857,92305700858,92305700859]",92305700860,"[Movies ,News]"
+6,Joseph,Seoul,"[1,4,7,8,9,10]","[4,7,8,9,10]","[Park,School]","[9230570084,9230570084,9230570084]",92305700862,[Politics]
+7,Thomas,Mexico City,"[4,6,8,9,10,211]",,"[police station,service station]","[92305700857,92305700858,92305700859]",92305700863,[Entertainment]
+8,Henry,Guangzhou,[abc],,"[KFC,Super mart,Macdonald]","[92305700845,92305700846,92305700847]",92305700864,"[Movies ,News]"
+9,Robert,Beijing,"[1,4,6,7,8,10]",,"[University,PSO]","[9230570084,9230570084,9230570084]",92305700865,"[Movies ,Music]"
+10,Edward,Cairo,"[6,7,8,9]","[1,4,6,7,8,9]","[Park,School]","[92305700857,92305700858,92305700859]",92305700866,[Politics]
+11,Harry,New York,"[1,4,6,7,8,9,10]","[4,6,7,8,9,10]","[police station,service station]","[92305700845,92305700846,92305700847]",92305700867,[Entertainment]
+13,Arthur,Bangkok,[abc],"[4,6,7,8,9,10]","[University,PSO]","[92305700857,92305700858,92305700859]",92305700869,"[Movies ,Music]"
+14,Fred,Buenos Aires,[abc],,"[Park,School]","[92305700845,92305700846,92305700847]",92305700870,[Politics]
+15,Albert,Shenzhen,[abc],"[1,4,6,7,8,9,10]","[police station,service station]","[9230570084,9230570084,9230570084]",92305700871,[Entertainment]
+16,Samuel,Dhaka,"[1,4,6,7,8,9]","[6,7,8,9,10]","[KFC,Super mart,Macdonald]","[92305700857,92305700858,92305700859]",92305700872,"[Movies ,News]"
+17,David,Lagos,"[4,6,7,8,9,10]","[1,4,6,7,8,9,10]","[University,PSO]","[92305700845,92305700846,92305700847]",92305700873,"[Movies ,Music]"
+18,Louis,Istanbul,"[1,4,7,8,9,10]","[4,7,8,9,10]","[Park,School]","[9230570084,9230570084,9230570084]",92305700874,[Politics]
+19,Joe,Ōsaka,"[4,6,8,9,10]",,"[police station,service station]","[92305700857,92305700858,92305700859]",92305700875,[Entertainment]
+20,Charlie,Karachi,[abc],,"[KFC,Super mart,Macdonald]","[92305700845,92305700846,92305700847]",92305700876,"[Movies ,News]"
+21,Clarence,Bangalore,"[1,4,6,7,8,10]",,"[University,PSO]","[9230570084,9230570084,9230570084]",92305700877,"[Movies ,Music]"
+22,Richard,Tehran,"[6,7,8,9]","[1,4,6,7,8,9]","[Park,School]","[92305700857,92305700858,92305700859]",92305700878,[Politics]
+23,Andrew,Kinshasa,"[1,4,6,7,8,9,10]","[4,6,7,8,9,10]","[police station,service station]","[92305700845,92305700846,92305700847]",92305700879,[Entertainment]
+24,Daniel,Ho Chi Minh City,"[4,7,8,9,10]","[1,4,6,7,8,9,10]","[KFC,Super mart,Macdonald]","[9230570084,9230570084,9230570084]",92305700880,"[Movies ,News]"
+25,Ernest,Los Angeles,[abc],"[4,6,7,8,9,10]","[University,PSO]","[92305700857,92305700858,92305700859]",92305700881,"[Movies ,Music]"
+26,Will,Rio de Janeiro,[abc],,"[Park,School]","[92305700845,92305700846,92305700847]",92305700882,[Politics]
+27,Jesse,Nanyang,[abc],"[1,4,6,7,8,9,10]","[police station,service station]","[9230570084,9230570084,9230570084]",92305700883,[Entertainment]
+28,Oscar,Chennai,"[1,4,6,7,8,9]","[6,7,8,9,10]","[KFC,Super mart,Macdonald]","[92305700857,92305700858,92305700859]",92305700884,"[Movies ,News]"
+29,Lewis,Chengdu,"[4,6,7,8,9,10]","[1,4,6,7,8,9,10]","[University,PSO]","[92305700845,92305700846,92305700847]",92305700885,"[Movies ,Music]"
+30,Peter,Lahore,"[1,4,7,8,9,10]","[4,7,8,9,10]","[Park,School]","[9230570084,9230570084,9230570084]",92305700886,[Politics]
+31,Benjamin,Paris,"[4,6,8,9,10]",,"[police station,service station]","[92305700857,92305700858,92305700859]",92305700887,[Entertainment]
+32,Frederick,London,[abc],,"[KFC,Super mart,Macdonald]","[92305700845,92305700846,92305700847]",92305700888,"[Movies ,News]"
+33,Willie,Linyi,"[1,4,6,7,8,10]",,"[University,PSO]","[9230570084,9230570084,9230570084]",92305700889,"[Movies ,Music]"
+34,Alfred,Tianjin,"[6,7,8,9]","[1,4,6,7,8,9]","[Park,School]","[92305700857,92305700858,92305700859]",92305700890,[Politics]
+35,Sam,Shijiazhuang,"[1,4,6,7,8,9,10]","[4,6,7,8,9,10]","[police station,service station]","[92305700845,92305700846,92305700847]",92305700891,[Entertainment]
+36,Roy,Baoding,"[4,7,8,9,10]","[1,4,6,7,8,9,10]","[KFC,Super mart,Macdonald]","[9230570084,9230570084,9230570084]",92305700892,"[Movies ,News]"
+37,Herbert,Zhoukou,[abc],"[4,6,7,8,9,10]","[University,PSO]","[92305700857,92305700858,92305700859]",92305700893,"[Movies ,Music]"
+38,Jacob,Lima,[abc],,"[Park,School]","[92305700845,92305700846,92305700847]",92305700894,[Politics]
+39,Tom,Hyderābād,[abc],"[1,4,6,7,8,9,10]","[police station,service station]","[9230570084,9230570084,9230570084]",92305700895,[Entertainment]
+40,Elmer,Bogotá,"[1,4,6,7,8,9]","[6,7,8,9,10]",,,92305700896,"[Movies ,News]"
+41,Carl,Weifang,"[4,6,7,8,9,10]","[1,4,6,7,8,9,10]",,,92305700897,"[Movies ,Music]"
+42,Lee,Nagoya,"[1,4,7,8,9,10]","[4,7,8,9,10]",,,92305700898,[Politics]
+43,Howard,Wuhan,"[4,6,8,9,10]",,,,92305700899,[Entertainment]
+44,Martin,Heze,[abc],,,,92305700900,"[Movies ,News]"
+45,Michael,Ganzhou,"[1,4,6,7,8,10]",,,,92305700901,"[Movies ,Music]"
+46,Bert,Tongshan,"[6,7,8,9]","[1,4,6,7,8,9]","[KFC,Super mart,Macdonald]","[92305700857,92305700858,92305700859]",92305700902,[Politics]
+47,Herman,Tokyo,"[1,4,6,7,8,9,10]","[4,6,7,8,9,10]","[University,PSO]","[92305700845,92305700846,92305700847]",92305700903,[Entertainment]
+48,Jim,Jakarta,"[4,7,8,9,10]","[1,4,6,7,8,9,10]","[Park,School]","[9230570084,9230570084,9230570084]",92305700904,"[Movies ,News]"
+49,Francis,Delhi,[abc],"[4,6,7,8,9,10]","[police station,service station]","[92305700857,92305700858,92305700859]",92305700905,"[Movies ,Music]"
+50,Harvey,Mumbai,[abc],,"[KFC,Super mart,Macdonald]","[92305700845,92305700846,92305700847]",92305700906,[Politics]
+51,Earl,Manila,[abc],"[1,4,6,7,8,9,10]","[University,PSO]","[9230570084,9230570084,9230570084]",92305700907,[Entertainment]
+52,Eugene,Shanghai,"[1,4,6,7,8,9]","[6,7,8,9,10]","[Park,School]","[92305700857,92305700858,92305700859]",92305700908,"[Movies ,News]"
+53,Ralph,Seoul,"[4,6,7,8,9,10]","[1,4,6,7,8,9,10]","[police station,service station]","[92305700845,92305700846,92305700847]",92305700909,"[Movies ,Music]"
+54,Ed,Mexico City,"[1,4,7,8,9,10]","[4,7,8,9,10]","[KFC,Super mart,Macdonald]","[9230570084,9230570084,9230570084]",92305700910,[Politics]
+55,Claude,Guangzhou,"[4,6,8,9,10]",,"[University,PSO]","[92305700857,92305700858,92305700859]",92305700911,[Entertainment]
+56,Edwin,Beijing,[abc],,"[Park,School]","[92305700845,92305700846,92305700847]",92305700912,"[Movies ,News]"
+57,Ben,Cairo,"[1,4,6,7,8,10]",,"[police station,service station]","[9230570084,9230570084,9230570084]",92305700913,"[Movies ,Music]"
+58,Charley,New York,"[6,7,8,9]","[1,4,6,7,8,9]","[KFC,Super mart,Macdonald]","[92305700857,92305700858,92305700859]",92305700914,[Politics]
+59,Paul,Moscow,"[1,4,6,7,8,9,10]","[4,6,7,8,9,10]","[University,PSO]","[92305700845,92305700846,92305700847]",92305700915,[Entertainment]
+60,Edgar,Bangkok,"[4,7,8,9,10]","[1,4,6,7,8,9,10]","[Park,School]","[9230570084,9230570084,9230570084]",92305700916,"[Movies ,News]"
+61,Isaac,Buenos Aires,[abc],"[4,6,7,8,9,10]","[police station,service station]","[92305700857,92305700858,92305700859]",92305700917,"[Movies ,Music]"
+62,Otto,Shenzhen,[abc],,"[KFC,Super mart,Macdonald]","[92305700845,92305700846,92305700847]",92305700918,[Politics]
+63,Luther,Dhaka,[abc],"[1,4,6,7,8,9,10]","[University,PSO]","[9230570084,9230570084,9230570084]",92305700919,[Entertainment]
+64,Lawrence,Lagos,"[1,4,6,7,8,9]","[6,7,8,9,10]","[Park,School]","[92305700857,92305700858,92305700859]",92305700920,"[Movies ,News]"
+65,Ira,Istanbul,"[4,6,7,8,9,10]","[1,4,6,7,8,9,10]","[police station,service station]","[92305700845,92305700846,92305700847]",92305700921,"[Movies ,Music]"
+66,Patrick,Ōsaka,"[1,4,7,8,9,10]","[4,7,8,9,10]","[KFC,Super mart,Macdonald]","[9230570084,9230570084,9230570084]",92305700922,[Politics]
+67,Guy,Karachi,"[4,6,8,9,10]",,"[University,PSO]","[92305700857,92305700858,92305700859]",92305700923,[Entertainment]
+68,Oliver,Bangalore,[abc],,"[Park,School]","[92305700845,92305700846,92305700847]",92305700924,"[Movies ,News]"
+69,Theodore,Tehran,"[1,4,6,7,8,10]",,"[police station,service station]","[9230570084,9230570084,9230570084]",92305700925,"[Movies ,Music]"
+70,Hugh,Kinshasa,"[6,7,8,9]","[1,4,6,7,8,9]","[KFC,Super mart,Macdonald]","[92305700857,92305700858,92305700859]",92305700926,[Politics]
+71,Clyde,Ho Chi Minh City,"[1,4,6,7,8,9,10]","[4,6,7,8,9,10]","[University,PSO]","[92305700845,92305700846,92305700847]",92305700927,[Entertainment]
+72,Alexander,Los Angeles,"[4,7,8,9,10]","[1,4,6,7,8,9,10]","[Park,School]","[9230570084,9230570084,9230570084]",92305700928,"[Movies ,News]"
+73,August,Rio de Janeiro,[abc],"[4,6,7,8,9,10]","[police station,service station]","[92305700857,92305700858,92305700859]",92305700929,"[Movies ,Music]"
+74,Floyd,Nanyang,[abc],,"[KFC,Super mart,Macdonald]","[92305700845,92305700846,92305700847]",92305700930,[Politics]
+75,Homer,Chennai,[abc],"[1,4,6,7,8,9,10]","[University,PSO]","[9230570084,9230570084,9230570084]",92305700931,[Entertainment]
+76,Jack,Chengdu,"[1,4,6,7,8,9]","[6,7,8,9,10]","[Park,School]","[92305700857,92305700858,92305700859]",92305700932,"[Movies ,News]"
+77,Leonard,Lahore,"[4,6,7,8,9,10]","[1,4,6,7,8,9,10]","[police station,service station]","[92305700845,92305700846,92305700847]",92305700933,"[Movies ,Music]"
+78,Horace,Paris,"[1,4,7,8,9,10]","[4,7,8,9,10]","[KFC,Super mart,Macdonald]","[9230570084,9230570084,9230570084]",92305700934,[Politics]
+79,Marion,London,"[4,6,8,9,10]",,"[University,PSO]","[92305700857,92305700858,92305700859]",92305700935,[Entertainment]
+80,Philip,Linyi,[abc],,"[Park,School]","[92305700845,92305700846,92305700847]",92305700936,"[Movies ,News]"
+81,Allen,Tianjin,"[1,4,6,7,8,10]",,"[police station,service station]","[9230570084,9230570084,9230570084]",92305700937,"[Movies ,Music]"
+82,Archie,Shijiazhuang,"[6,7,8,9]","[1,4,6,7,8,9]","[KFC,Super mart,Macdonald]","[92305700857,92305700858,92305700859]",92305700938,[Politics]
+83,Stephen,Baoding,"[1,4,6,7,8,9,10]","[4,6,7,8,9,10]","[University,PSO]","[92305700845,92305700846,92305700847]",92305700939,[Entertainment]
+84,Chester,Zhoukou,"[4,7,8,9,10]","[1,4,6,7,8,9,10]","[Park,School]","[9230570084,9230570084,9230570084]",92305700940,"[Movies ,News]"
+85,Willis,Lima,[abc],"[4,6,7,8,9,10]","[police station,service station]","[92305700857,92305700858,92305700859]",92305700941,"[Movies ,Music]"
+86,Raymond,Hyderābād,[abc],,,"[92305700845,92305700846,92305700847]",92305700942,[Politics]
+87,Rufus,Bogotá,[abc],"[1,4,6,7,8,9,10]",,"[9230570084,9230570084,9230570084]",92305700943,[Entertainment]
+88,Warren,Weifang,"[1,4,6,7,8,9]","[6,7,8,9,10]",,"[92305700857,92305700858,92305700859]",92305700944,"[Movies ,News]"
+89,Jessie,Nagoya,"[4,6,7,8,9,10]","[1,4,6,7,8,9,10]",,"[92305700845,92305700846,92305700847]",92305700945,"[Movies ,Music]"
+90,Milton,Wuhan,"[1,4,7,8,9,10]","[4,7,8,9,10]",,"[9230570084,9230570084,9230570084]",92305700946,[Politics]
+91,Alex,Heze,"[4,6,8,9,10]",,,"[92305700857,92305700858,92305700859]",92305700947,[Entertainment]
+92,Leo,Ganzhou,[abc],,,"[92305700845,92305700846,92305700847]",92305700948,"[Movies ,News]"
+93,Julius,Tongshan,"[1,4,6,7,8,10]",,,"[9230570084,9230570084,9230570084]",92305700949,"[Movies ,Music]"
+94,Ray,Wuhan,"[6,7,8,9]","[1,4,6,7,8,9]","[KFC,Super mart,Macdonald]","[92305700857,92305700858,92305700859]",92305700950,[Politics]
+95,Sidney,Heze,"[1,4,6,7,8,9,10]","[4,6,7,8,9,10]","[University,PSO]","[92305700845,92305700846,92305700847]",92305700951,[Entertainment]
+96,Bernard,Ganzhou,"[4,7,8,9,10]",,"[Park,School]","[9230570084,9230570084,9230570084]",92305700952,"[Movies ,News]"
+97,Dan,Tongshan,[abc],,"[police station,service station]","[92305700857,92305700858,92305700859]",92305700953,"[Movies ,Music]"
+98,Jerry,Islamabad,[abc],,"[KFC,Super mart,Macdonald]","[92305700845,92305700846,92305700847]",92305700954,[Politics]
+12,abdul,sanawan,,,"[islamabad,jinnah]","[9230570084,9230570084,9230570084]",12345678910,"[Movies ,Music]"

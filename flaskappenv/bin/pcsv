@@ -1,0 +1,7 @@
+#!/root/apirohan2-main/flaskappenv/bin/python3
+import pcsv
+from jtutils import fix_broken_pipe
+
+if __name__ == "__main__":
+    fix_broken_pipe()
+    pcsv.pcsv()

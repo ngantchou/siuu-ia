@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: python-csv
+Version: 0.0.13
+Summary: Python tools for manipulating csv files
+Home-page: https://github.com/jasontrigg0/python-csv
+Author: Jason Trigg
+Author-email: jasontrigg0@gmail.com
+License: UNKNOWN
+Download-URL: https://github.com/jasontrigg0/python-csv/tarball/0.0.13
+Platform: UNKNOWN
+Requires-Dist: argparse
+Requires-Dist: demjson
+Requires-Dist: jtutils
+Requires-Dist: leven
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: xlrd
+Requires-Dist: xmltodict
+
+UNKNOWN
+
+
